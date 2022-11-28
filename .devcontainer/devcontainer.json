@@ -39,7 +39,8 @@
 			"label": "VNC"
 		},
 		"6080": {
-			"label": "WEB VNC"
+			"label": "WEB VNC",
+			"onAutoForward": "openPreview"
 		}
 	}
 }
