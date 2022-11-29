@@ -19,7 +19,7 @@
 	],
 	"remoteUser": "vscode",
 	"features": {
-		"desktop-lite": {
+		"ghcr.io/devcontainers/features/desktop-lite:1": {
 			"password": "vscode",
 			"webPort": "6080",
 			"vncPort": "5901"
